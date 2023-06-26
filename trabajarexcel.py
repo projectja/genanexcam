@@ -25,7 +25,6 @@ import shutil
 
 
 
-
 cif = ""
 cifglobal = ""
 # esta es la ruta que se utiliza para el cif que estamos tratando
