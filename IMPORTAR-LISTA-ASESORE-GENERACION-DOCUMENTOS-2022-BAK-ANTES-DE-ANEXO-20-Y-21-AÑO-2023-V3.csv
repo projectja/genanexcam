@@ -1,0 +1,258 @@
+PROYECTO;FECHA_INI;FECHA_FIN;TECNICO;PERIODO;id;programa;consultora;n_sorte;Fases;id_solicitud;num_registro;fecha_y_hora_registro;documento_solicitante;nombre_solicitante;provincia;poblacion;cp;email;direccion;telefono_solicitante;docoumento_representante;nombre_representante;email_representante;iae;anno_actividad;ss_ok;aeat_ok;cargo;nuevo;tratamiento_representante;fases2;acta;r_admision;notificado;tratamiento_tecnico;tecnico_justificar;dni_tecnico;deca_firmado_ok;bitacora;fecha_documento_inicio_diagnostico;fecha_diagnostico;anexo_18_firmado;fecha_recepcion_presupuesto;fecha_envio_anexo_19;envio_ppi;fecha_firma_ppi;fecha_firma_anexo_19;duracion_del_plan;encuesta_satisfaccion;proyectos;descripcion_empresa;pagina_web;solicitud_cumplimentada_ok;domicilio_en_demarcacion_ok;condiciones_participacion;informacion_adicional_beneficiario_anexo_16;fecha_registro_participacion_fase_i_anexo_18;enviado_email_publicidad_ue;fecha_registro_participacion_en_fase_ii_anexo_19;fecha_registro_servicio_seguimiento_fase_ii_anexo_20;memoria_proyecto_y_cuestionario_anexo_21;"formulario_ccc_empresas_anexo_27
+Proyectos a realiazar";facturas;ruta_en_disco;extracto_bancario;evidencias_del_gasto;obligaciones_publicidad_ue;tecnico_diagnostico;pasado_financiero;subido_mega;importe_presupuestado;importe_subvencionado; contador_secuencial_expendiente;num_expediente;empresa_INNOCAMARAScamara;estado;entrevista;fecha_informe_valoracion;fecha_resolucion;fecha_convenido_deca_anexo_10;tecnico_justificar2;fecha_fin_fase_i;nivel_madurez;justificacion_diagnostico;fecha_inicio_fase_ii;segui_1;segui_2;segui_3;segui_4;segui_5;segui_6;fecha_fin_proyecto;NOMBRE PROYECTO1;PROVEEDOR PROYECTO1;CIF PROVEEDOR PROYECTO1;PROVEEDOR2 PROYECTO1;CIF PROVEEDOR2 PROYECTO1;DURACION PROYECTO1;IMPORTE1 PROYECTO1;IMPORTE2 PROYECTO1;TOTAL PROYECTO1;NOMBRE PROYECTO2;PROVEEDOR PROYECTO2;CIF PROVEEDOR PROYECTO2;PROVEEDOR2 PROYECTO2;CIF PROVEEDOR2 PROYECTO2;DURACION PROYECTO2;IMPORTE1 PROYECTO2;IMPORTE2 PROYECTO2;TOTAL PROYECTO2;NOMBRE PROYECTO3;PROVEEDOR PROYECTO3;CIF PROVEEDOR PROYECTO3;PROVEEDOR2 PROYECTO3;CIF PROVEEDOR2 PROYECTO3;DURACION PROYECTO3;IMPORTE1 PROYECTO3;IMPORTE2 PROYECTO3;TOTAL PROYECTO3;NOMBRE PROYECTO4;PROVEEDOR PROYECTO4;CIF PROVEEDOR PROYECTO4;PROVEEDOR2 PROYECTO4;CIF PROVEEDOR2 PROYECTO4;DURACION PROYECTO4;IMPORTE1 PROYECTO4;IMPORTE2 PROYECTO4;TOTAL PROYECTO4;TOTAL PROYECTO;Columna13;Columna14;Columna142;Columna15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BODEGAS RUBIO 1893 SL - INNOCAMARAS 2023 - ICA_AN_HU_172;01/03/2023(01-03-2023);31/12/2022;Juan Carlos Saldaña;;1;INNOCAMARAS;2023;9;Fase 1 + Fase 2;SL000000139456;26/01/2023 13:19:34;SDE-REG-23-000000000005055;;BODEGAS RUBIO 1893 SL;Huelva;Sevilla;21700;"ficimer@telefonica.net;frp@luisfelipe.es";C/ Palos de la Fra., 14;959400743;29270826Z;FERNANDO RUBIO MILLAN;FICIMER@TELEFONICA.NET;424.3;2006;ok;ok;Administrador único;0;D.;Fase 1 + Fase 2;;01/03/2023;01/03/2023;D. ;Juan Carlos Saldaña;29754396D;01/03/2023(01-03-2023);"08/03/2023. Entrevista diagnostico. 
+22/03 Fin diagnostico. 
+29/03/2023. Se envia documentacion ya que hemos tenido que conformar proyectos personalizados porque no salian en la herramienta por defecto y hemos lanzado consulta a Cámara
+18/04. A petición del beneficiario, aunque se había enviado ya ANEXO 19 Y PPI, una necesidad en su proceso al incluir la maquinaria de mejora en el proceso, aconseja la inclusión de un enfriador adicional. Se lanzará la consulta a Cámara España.
+Los importes están dentro del presupuesto.
+27/04/2023. Enviados PPI y Anexo 19 firmados por nuestra parte. 
+";06/03/2022;22/03/2022;29/03/2023;31/03/2023;21/04/2023;21/04/2023;21/04/2023;21/04/2023;06/03/2023 - 22/03/2023;29/03/2023;"DDP Diseño y desarrollo de envases y embalajes nuevos o sustancialmente mejorados
+DDP Diseño y desarrollo de producto/servicio o introducción de mejoras significativas a los productos/servicios actuales
+DDP Imagen Gráfica/Corporativa de la empresa y/o de sus nuevos o mejorados productos/servicios
+
+";BODEGAS RUBIO 1893 SL se dedica a la elaboración, crianza y envejecimiento de bebidas espirituosas y vinagres y a su posterior comercialización, en un ámbito geográfico que para los espirituosos es España, Europa y Asia, y para el vinagre es España. En la actualidad comercializa seis marcas de espirituosos y tres marcas de vinagres, una de ellas con DOP Condado de Huelva. Está previsto el lanzamiento de nuevos productos con nuevas marcas dentro del mismo ámbito de las bebidas espirituosas.;www.luisfelipe.es;OK;OK;OK;06/04/2022;29/03/2023;11/04/2023;Esta columna la usaremos para bitácora de texto libre;;;;;X:\FEDER 2016-2020\-programa\2023\Expedientes\Expedientes admitidos\BODEGAS RUBIO 1893 SL;;;1;Alfonso;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;21/04/2023 al 31/12/2022;0,00;;0,00;;;;;;21/04/2023 al 31/12/2022;0,00;;0,00;;;;;;21/04/2023 al 31/12/2022;0,00;;0,00;0,00;0,00;;;;21/04/2023 al 31/12/2022;0,00;;0,00;0,00; 0  0; 0  0; 0  0;0 0  0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BODEGAS RUBIO 1893 SL - INNOCAMARAS 2023 - ICA_AN_HU_182;01/03/2023(01-03-2023);31/12/2022;Juan Carlos Saldaña;;2;INNOCAMARAS;2023;9;Fase 1 + Fase 2;SL000000139456;26/01/2023 13:19:34;SDE-REG-23-000000000005055;B21429170;BODEGAS RUBIO 1893 SL;Huelva;La Palma del condado;21700;"ficimer@telefonica.net;frp@luisfelipe.es";C/ Palos de la Fra., 14;959400743;29270826Z;FERNANDO RUBIO MILLAN;"ficimer@telefonica.net;frp@luisfelipe.es";424.3;2006;OK;OK;Administrador único;0;D.;Fase 1 + Fase 2;;01/03/2023;01/03/2023;D. ;Juan Carlos Saldaña;29754396D;01/03/2023(01-03-2023);"08/03/2023. Entrevista diagnostico. 
+22/03 Fin diagnostico. 
+29/03/2023. Se envia documentacion ya que hemos tenido que conformar proyectos personalizados porque no salian en la herramienta por defecto y hemos lanzado consulta a Cámara
+05/04/2023. Se recibe una modificación al presupuesto de diseño de ETIQUETAS. Varía la cantidad a 500 euros
+11/04/2023. Enviado Anexo 19 y PPI. 
+
+";06/03/2022;22/03/2022;29/03/2023;31/03/2023;11/04/2023;11/04/2023;21/04/2023;21/04/2023;15/03/2023 - 31/03/2023;29/03/2023;"DDP Diseño y desarrollo de envases y embalajes nuevos o sustancialmente mejorados
+DDP Diseño y desarrollo de producto/servicio o introducción de mejoras significativas a los productos/servicios actuales
+DDP Imagen Gráfica/Corporativa de la empresa y/o de sus nuevos o mejorados productos/servicios
+
+";BODEGAS RUBIO 1893 SL se dedica a la elaboración, crianza y envejecimiento de bebidas espirituosas y vinagres y a su posterior comercialización, en un ámbito geográfico que para los espirituosos es España, Europa y Asia, y para el vinagre es España. En la actualidad comercializa seis marcas de espirituosos y tres marcas de vinagres, una de ellas con DOP Condado de Huelva. Está previsto el lanzamiento de nuevos productos con nuevas marcas dentro del mismo ámbito de las bebidas espirituosas.;www.luisfelipe.es;OK;OK;OK;03/03/2023;29/03/2023;11/04/2023;Enviado 11/04/2023;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\BODEGAS RUBIO 1893 SL;01;;1;Alfonso;;;6333;5066,4;6;ICA_AN_HU_172;BODEGAS RUBIO 1893 SL;;MIERCOLES 09-03;01/03/2023;01/03/2023;06/03/2023;Juan Carlos Saldaña;22-03-23;Emergente;06/03/2023 - 22/03/2023;;;;;;;;31/08/2023;"Diseño y desarrollo de producto/servicio o introducción de mejoras significativas
+a los productos/servicios actuales";GAB SISTEMATICA ANALITICA SL;B58504887;;;29/04/2023 - 31/12/2023;5833,00;;5833,00;"Imagen Gráfica/Corporativa de la empresa y/o de sus nuevos o mejorados
+productos/servicios";STUDIO TIPO (MODIFICAR POR PROVEEDOR CORRECTO);PENDIENTE;;;29/04/2023 - 31/12/2023;500,00;;500,00;;;;;;11/04/2023 al 31/12/2022;0,00;;0,00;0,00;0,00;;;;11/04/2023 al 31/12/2022;0,00;;0,00;6333,00;"Diseño y desarrollo de producto/servicio o introducción de mejoras significativas
+a los productos/servicios actuales 5833  5833";"Imagen Gráfica/Corporativa de la empresa y/o de sus nuevos o mejorados
+productos/servicios 500  500"; 0  0;0 0  0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SJ PUERTO MANTENIMIENTOS INTEGRALES SL - INNOCAMARAS 2023 - ICA_AN_HU_182;01/03/2023(01-03-2023);31/12/2022;Juan Carlos Saldaña;;3;INNOCAMARAS;2023;4;Fase 1 + Fase 2;SL000000139496;26/01/2023 17:28:16;SDE-REG-23-000000000005086;B21542931;SJ PUERTO MANTENIMIENTOS INTEGRALES SL;Huelva;San Juan del Puerto;21610;oficina@sjpuerto.es;C/Antonio Mairena, 5, Local 1;655876775;29780087D;MANUELA RISUEÑO CARRILLO;ASTRILACB@YAHOO.ES;922.1;2014;OK;OK;Administradora única;0;Dª.;Fase 1 + Fase 2;;01/03/2023;01/03/2023;D. ;Juan Carlos Saldaña;29754396D;01/03/2023(01-03-2023);"11/04. Envio diagnostico.
+11/04. Se modifica el diagnóstico a petición de cliente para incluir un plan de Marketing estratégico y se envia modifcaciones DDP, ANEXO, DIAGNÓSTICO
+12/04/ Se recibe PRESUPUESTO y anexo 18 firmado
+13/04/2023. Se envia PPI y anexo 19 para firmar
+13/04. Se recibe PPI y Anexo 19 firmado
+05/05.  Se envía Anexo 19 y PPI firmado por Cámara y comienzan implantación
+
+
+
+";15/03/2023;31/03/2023;12/04/2022;12/04/2022;13/04/2023;13/04/2023;05/05/023;05/05/023;07/03/2023 - 23/03/2023;20/07/2022;"DDP_Planes_estratégicos
+DDP_Plan_de_marketing_y_comercialización";Empresa dedicada al suministro de papelería a empresas. Especialidad en impresión gran formato.;www.sjpuerto.es;OK;OK;OK;14/03/2023;11/04/2023;13/04/2023;12/03/2023;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\SJ PUERTO MANTENIMIENTOS INTEGRALES SL;01;;05/05/2023;Alfonso;;;7000;5600;3;ICA_AN_HU_182;SJ PUERTO MANTENIMIENTOS INTEGRALES SL - Soporttec;;04-mar;01/03/2023;01/03/2023;14/03/2023;Juan Carlos Saldaña;31-03-23;Incipiente;15/03/2023 - 31/03/2023;;;;;;;;31/08/2023;"Pla
+nes Estratégicos de Marketing y/o Comercialización.";SOPORTTEC;ESB21454350;;;06/05/2023 - 31/08/2023;3500,00;;3500,00;Planificación Estratégica.;SOPORTTEC;ESB21454350;;;06/05/2023 - 31/08/2023;3500,00;;3500,00;;;;;;13/04/2023 al 31/12/2022;0,00;;0,00;0,00;0,00;;;;13/04/2023 al 31/12/2022;0,00;;0,00;7000,00;"Pla
+nes Estratégicos de Marketing y/o Comercialización. 3500  3500";Planificación Estratégica. 3500  3500; 0  0;0 0  0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+POSADA DE VALDEZUFRE SL - INNOCAMARAS 2023 - ICA_AN_HU_181;06/03/2023(01-03-2023);31/12/2022;Juan Carlos Saldaña;;4;INNOCAMARAS;2023;10;Fase 1 + Fase 2;SL000000139893;31/01/2023 13:18:27;SDE-REG-23-000000000005542;B91106781;POSADA DE VALDEZUFRE SL;HUELVA;ARACENA;21207;administracion@valdezufre.com;C/ SANTA MARINA , 1 (VALDEZUFRE);664497390;30215289M;ALFREDO PEREZ MARTIN;administracion@valdezufre.com;681;2003;OK;OK;Administrador solidario;0;D.;Fase 1 + Fase 2;;01/03/2023;01/03/2023;D. ;Juan Carlos Saldaña;29754396D;06/03/2023(01-03-2023);"JUEVES 10-03 ENTREVISTA DIAGNOSTISCO 
+23/03/2023 Envío Anexo 18 + Diagnostico 
+31/05/2023 Se recibe Anexo 18 firmado
+05/06/2023 Recepción de presupuestos
+06/07/2023 Envío Anexo 19 + PPI
+10/07/2023 Firma PPI y Anexo 19";07/03/2023;23/03/2023;31/05/2023;05/06/2023;06/07/2023;06/07/2023;10/07/2023;10/07/2023;29/03/2023 - 14/04/2023;23/03/2023;"DDP_Planes_estratégicos
+DDP_Plan_de_marketing_y_comercialización
+DDP_Mejora_de_la_sostinibilidad_de_procesos";Empresa dedicada al alojamiento . Hotel en zona rural;posadadevaldezufre.com;OK;OK;OK;06/03/2023;13/04/2023;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\POSADA DE VALDEZUFRE SL;01;;;Alfonso;;;;;7;ICA_AN_HU_181;POSADA DE VALDEZUFRE SL;;JUEVES 10-03;01/03/2023;01/03/2023;07/03/2023;Juan Carlos Saldaña;23-03-23;Emergente;07/03/2023 - 23/03/2023;;;;;;;;31/08/2023;Incremento de la sostenibilidad en los procesos PP;SADEMP;B90412362;;;08(07/2023;6106,02;;6106,02;;;;;;;;;0,00;;;;;;;;;;0,00;0,00;;;;;;;;6106,02;Incremento de la sostenibilidad en los procesos PP 6106,02  6106,02;   0;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BOVEDILLAS DOÑANA SOCIEDAD LIMITADA - INNOCAMARAS 2023 - ICA_AN_HU_186;20/03/2023(13-03-2023);31/12/2022;Juan Carlos Saldaña;;5;INNOCAMARAS;2023;21;Fase 1 + Fase 2;SL000000139395;44952,40558;SDE-REG-23-000000000004956;B21183694;BOVEDILLAS DOÑANA SOCIEDAD LIMITADA;Huelva;Almonte;21730;Davidnublan@gmail.com;Carretera almonte-el rocio km 3,5 (materiales de construccion, NUBLAN);693636302;29767296Y;DOMINGO NUÑEZ ACOSTA;NUBLAN.DOMINGO@GMAIL.COM;MATERIALES CONSTRUCCION;1993;OK;OK;Administrador único;0;D.;Fase 1 + Fase 2;;09/03/2023;09/03/2023;D. ;Juan Carlos Saldaña;29754396D;20/03/2023(13-03-2023);"MARTES 28-03 (10:00) ENTREVISTA DIAGNOSTISCO 
+12/03/2023 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";28/03/2023;12/03/2023;;;;;;;29/03/2023 - 14/04/2023;;"DDP_consultoria_estudios_viabilidad_tecnica
+DDP_herramientas_marketing_y_comercializacion
+DDP_Implantación de Sistemáticas y metodologías de Gestión
+DDP_Planes_de_marketing
+DDP_Diseño y desarrollo de productoservicio o introducción de mejoras
+";Comercio al por mayor de materiales de construcción, vidrio y artículos de instalación;EN CONSTRUCCION;ok;ok;ok;20/03/2023;13/03/2023;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\BOVEDILLAS DOÑANA SOCIEDAD LIMITADA;01;;;Alfonso;;;;;17;ICA_AN_HU_186;BOVEDILLAS DOAÑANA;;MARTES 28-03 (10:00);13/03/2023;14/03/2023;21/03/2023;Esther Ponce Sanchez;14-04-23;Incipiente;29/03/2023 - 14/04/2023;;;;;;;;;;;;;;;;;0,00;;;;;;;;;0,00;;;;;;;;;;0,00;0,00;;;;;;;;0,00;   0;   0;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+KNITINK TECHNOLOGIES SL - INNOCAMARAS 2023 - ICA_AN_HU_186;20/03/2023(13-03-2023);31/12/2022;Esther Ponce Sanchez;;6;INNOCAMARAS;2023;19;Fase 1 + Fase 2;SL000000139620;44953,48223;SDE-REG-23-000000000005203;B21583307;KNITINK TECHNOLOGIES SL;HUELVA;HUELVA;21007;"ADMINISTRACION@KNITINK.COM;'Miguel Ángel de Vega Alcántara' <ma.devega@knitink.com>;'Ana Guerra Perez' <administracion@knitink.com>";PARQUE EMPRESARIAL, NAVE 52;657813655;42698510E;CARMELO DEL TORO CAZORLA;LUIS@ARTILLERITO.COM;330;2012;OK;OK;Administrador solidario;0;D.;Fase 1 + Fase 2;;14/03/2023;14/03/2023;Dª.;Esther Ponce Sanchez;44226967Z;20/03/2023(13-03-2023);"MARTES 28-03 (10:00) ENTREVISTA DIAGNOSTISCO 
+14/04/2023 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";28/03/2023;14/04/2023;;;;;;;03/04/2023 - 21/04/2023;;"DDP_Planes Estratégicos de Marketing y/o Comercialización.
+DDP_Imagen Gráfica/Corporativa de la empresa y/o de sus nuevos o mejorados productos/servicios.
+DDP_Diseño y desarrollo de envases y embalajes nuevos o sustancialmente mejorados.
+
+";Knitink es una empresa especializada en el desarrollo y comercialización de equipamiento, hardware y software para el control, monitorización y gestión de la información del riego y la fertirrigación en agricultura, con base en Huelva, y con operación en 7 países, 3 continentes, a través de distribuidores autorizados.;https://www.knitink.com;ok;ok;ok;20/03/2023;14/03/2023;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\KNITINK TECHNOLOGIES SL;01;;;Alfonso;;;;;17;ICA_AN_HU_186;KNITINK TECHNOLOGIES;;MARTES 28-03 (10:00);13/03/2023;14/03/2023;21/03/2023;Esther Ponce Sanchez;14-04-23;Incipiente;29/03/2023 - 14/04/2023;;;;;;;;;;;;;;;;;0,00;;;;;;;;;0,00;;;;;;;;;;0,00;0,00;;;;;;;;0,00;   0;   0;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EMBUTIDOS MORENO VARGAS, S.L. - INNOCAMARAS 2023 - ICA_AN_HU_184;20/03/2023(09-03-2023);31/12/2022;Juan Carlos Saldaña;;7;INNOCAMARAS;2023;22;Fase 1 + Fase 2;SL000000139351;25/01/2023 18:04;SDE-REG-23-000000000004914;B10690568;EMBUTIDOS MORENO VARGAS, S.L.;HUELVA;CUMBRES DE SAN BARTOLOME;21386;MORENOVARGASEMBUTIDOS@GMAIL.COM;CALLE REAL 29;722341784;49085641F;ANDREA MORENO RISUEÑO;jcdc3239@icahuelva.es;642,4;2022;OK;OK;Administradora única;1;Dª.;Fase 1 + Fase 2;01/03/2023;14/03/2023;14/03/2023;D. ;Juan Carlos Saldaña;29754396D;20/03/2023(09-03-2023);"Martes 04-03 ENTREVISTA DIAGNOSTISCO 
+21/04/2023 Envío Anexo 18 + Diagnostico 
+25/04/2023 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";03/04/2023;21/04/2023;25/04/2023;;;;;;04/04/2023 - 26/04/2023;;"DDP_Planes Estratégicos de Marketing y/o Comercialización.
+DDP_Imagen Gráfica/Corporativa de la empresa y/o de sus nuevos o mejorados productos/servicios.
+DDP_Diseño y desarrollo de envases y embalajes nuevos o sustancialmente mejorados.
+
+";Embutido Moreno Vargas es una empresa dedicada a la elaboración y secadero de embutidos;no;ok;ok;ok;falta embutidos moreno;25/04/2023;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\EMBUTIDOS MORENO VARGAS, S.L.;01;;;Alfonso;;;;;16;ICA_AN_HU_184;EMBUTIDOS MORENO VARGAS, S.L. - Soporttec;;Martes 04-03;09/03/2023;09/03/2023;21/03/2023;Juan Carlos Saldaña;24-04-23;Incipiente;03/04/2023 - 21/04/2023;;;;;;;;;;;;;;;;;0,00;;;;;;;;;0,00;;;;;;;;;;0,00;0,00;;;;;;;;0,00;   0;   0;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MARIA ROSARIO MOLINA MECHACA - INNOCAMARAS 2023 - ICA_AN_HU_192;20/03/2023(01-03-2023);31/12/2022;Esther Ponce Sanchez;;8;INNOCAMARAS;2023;18;Fase 1 + Fase 2;SL000000139989;31/01/2023 14:24:19;SDE-REG-23-000000000005580;77590009S;MARIA ROSARIO MOLINA MECHACA;JABUGO;JABUGO;21290;naturespacejabugo@gmail.com;Finca Monte Gallina, Aldea El Quejigo, Carretera N-435, Km.134;678423229;77590009S;MARIA ROSARIO MOLINA MECHACA;MARIMOL71@GMAIL.COM;685;2021;OK;OK;Empresaria autónoma;1;Dª.;Fase 1 + Fase 2;01/03/2023;01/03/2023;04/03/2023;Dª.;Esther Ponce Sanchez;44226967Z;20/03/2023(01-03-2023);"VIERNES 24-03 (13:30) ENTREVISTA DIAGNOSTISCO 
+26/04/2023 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";04/04/2023;26/04/2023;;;;;;;03/04/2023 - 26/04/2023;;"Diseño y desarrollo de producto_servicio o introducción de mejoras significativas en los mismos
+Imagen Gráfica Corporativa de la empresa 
+Incremento de la sostenibilidad ambiental de procesos
+Nuevas herramientas de Marketing o Comercialización
+Planes Estratégicos de Marketing o Comercialización";Empresa de alojamiento turístico y rural en entorno de la Sierra de Huelva. Casas Rurales con encanto en el Parque Natural de Aracena y Picos de Aroche. Petenecientes al Ecoturismo y Rusticae.;Nature Space Jabugo - SoyEcoturista.com;ok;ok;ok;06/03/2023;;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\MARIA ROSARIO MOLINA MECHACA;01;;;Alfonso;;;;;10;ICA_AN_HU_192;MARIA ROSARIO MOLINA MECHACA;;VIERNES 24-03 (13:30);01/03/2023;01/03/2023;06/03/2023;Esther Ponce Sanchez;26-04-23;Incipiente;04/04/2023 - 26/04/2023;;;;;;;;;;;;;;;;;0,00;;;;;;;;;0,00;;;;;;;;;;0,00;0,00;;;;;;;;0,00;   0;   0;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FRANCISCO DE LA CORTE MORENO - INNOCAMARAS 2023 - ICA_AN_HU_187;20/03/2023(21-03-2023);31/12/2022;Esther Ponce Sanchez;;9;INNOCAMARAS;2023;12;Fase 1 + Fase 2;SL000000139981;31/01/2023 13:33;SDE-REG-23-000000000005555;48917297T;FRANCISCO DE LA CORTE MORENO;HUELVA;MOGUER;21800;servicios@limpiezasmoreno.com;C/DIEZMO VIEJO,2 OFICINA 5;678910165;48917297T;FRANCISCO DE LA CORTE MORENO;servicios@limpiezasmoreno.com;922;2018;OK;OK;Empresaria autónoma;EMPRESARIO AUTONOMO;D.;Fase 1 + Fase 2;23/03/2023;23/03/2023;27/03/2023;Dª.;Esther Ponce Sanchez;44226967Z;20/03/2023(21-03-2023);"viernes 21-04 (10_00) ENTREVISTA DIAGNOSTISCO 
+26/04/2023 Envío Anexo 18 + Diagnostico 
+04/05/2023 Se recibe Anexo 18 firmado
+09/05/2023 Recepción de presupuestos
+11/05/2023 Envío Anexo 19 + PPI
+23/05/2023 Firma PPI y Anexo 19";03/04/2023;26/04/2023;04/05/2023;09/05/2023;11/05/2023;11/05/2023;23/05/2023;23/05/2023;13/04/2023 - 27/04/2023;;"Implantación de Sistemáticas y metodologías de Gestión
+Nuevas herramientas de Marketing y/o Comercialización
+imagen Gráfica/Corporativa de la empresa
+Planes Estratégicos de Marketin y/o Comercialización
+";Empresa de servicios de limpieza y mantenimientos de jardines fundamentalmente. Servicios a particulares, secotr industrial, otros sectores privados y sector público en crecimiento;https://limpiezasmoreno.com/;OK;OK;OK;FALTA , NO ENVIADO CUANDO SE ENVIÓ DECA;26/04/2023;26/05/2023;26/05/2023;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\FRANCISCO DE LA CORTE MORENO;01;;;Alfonso;;;7.000,00 €;5.600,00 €;22;ICA_AN_HU_187;FRANCISCO DE LA CORTE MORENO;;viernes 21-04 (10_00);21/03/2023;23/03/2023;28/03/2023;Esther Ponce Sanchez;26/04/2023;Incipiente;03/04/2023 - 26/04/2023;26/05/2023;;;;;;;31/08/2023;"Implantación de
+Sistemáticas y metodologías de Gestión.";Alzza Global Consulting SL;B42761106;;;06-05-2023 - 31/08/2023;7000,00;;7000,00;;;;;;;;;0,00;;;;;;;;;;0,00;0,00;;;;;;;;7000,00;"Implantación de
+Sistemáticas y metodologías de Gestión. 7000  7000";   0;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+OBRAS Y CAMINOS ONUBENSES SL - INNOCAMARAS 2023 - ICA_AN_HU_185;21/03/2023(3/13/2023);31/12/2022;Juan Carlos Saldaña;;10;INNOCAMARAS;2023;8;Fase 1 + Fase 2;SL000000139759;30/01/2023 11:40;SDE-REG-23-000000000005341;B21292032;OBRAS Y CAMINOS ONUBENSES SL;HUELVA;SAN JUAN DEL PUERTO;21610;contabilidad@obrasycaminos.es;CTRA. CIRCUNVALACIÓN S/N - FINCA LOS MASTINES;959356437;44230786S;MANUEL DOMINGUEZ CALLEJO;FATIMA@DOYCA.NET;431,2;2000;OK;OK;Administrador solidario;0;D.;Fase 1 + Fase 2;14/03/2023;14/03/2023;14/03/2023;D. ;Juan Carlos Saldaña;29754396D;21/03/2023(3/13/2023);"00/01/1900 ENTREVISTA DIAGNOSTISCO 
+27/04/2023 Envío Anexo 18 + Diagnostico 
+04/05/2023 Se recibe Anexo 18 firmado
+04/05/2023 Recepción de presupuestos
+05/05/2023 Envío Anexo 19 + PPI
+05/05/2023 Firma PPI y Anexo 19";13/04/2023;27/04/2023;04/05/2023;04/05/2023;05/05/2023;05/05/2023;05/05/2023;05/05/2023;24/04/2023 - 11/05/2023;;"Plan de Responsabilidad Social Empresarial
+Planificación Estratégica
+";Empresa dedidcada a obra civil y pública;www.obrasycaminosonubenses.com;OK;OK;OK;22/03/2023;01/05/2023;08/05/2023;05/05/2023;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\OBRAS Y CAMINOS ONUBENSES SL;01;;05/05/2023;Alfonso;;;7000;5600;21;ICA_AN_HU_185;OBRAS Y CAMINOS ONUBENSES - Soporttec;;;3/13/2023;3/14/2023;21/03/2023;Juan Carlos Saldaña;27-04-23;Incipiente;13/04/2023 - 27/04/2023;05/05/2023;;;;;;;31/08/2023;Planificación estratégica;SOPORTTEC;ESB21454350;;;06-05/2023 - 31/12/2023;3500,00;;3500,00;Plan de responsabilidad social empresarial;SOPORTTEC;;;;06/05/2023 - 31/08/2023;3500,00;;3500,00;;;;;;;;;;0,00;0,00;;;;;;;;7000,00;Planificación estratégica 3500  3500;Plan de responsabilidad social empresarial 3500  3500;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+JUAN CARLOS DUARTE CAÑADO - TICCAMARAS 2023 - TCC_AN_HU_206;21/03/2023(22-03-2023);31/12/2022;Juan Carlos Saldaña;;11;TICCAMARAS;2023;6;FI + FII;SL000000140351;SDE-REG-23-000000000005997;03/02/2023 09:23:00;29053117T;JUAN CARLOS DUARTE CAÑADO;Huelva;Huelva;21001;JCDC3239@ICAHUELVA.ES;Calle Rico 31;664454007;29053117T;JUAN CARLOS DUARTE CAÑADO;cdcgestoria@gmail.com;731.2;2020;OK;OK;Empresario autónomo;0;D.;FI + FII;23/03/2023;23/03/2023;23/03/2023;D. ;Juan Carlos Saldaña;29754396D;21/03/2023(22-03-2023);"05/02/2023 ENTREVISTA DIAGNOSTISCO 
+11/05/2023 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";14/04/2023;11/05/2023;;;;;;;22/05/2023 - 31/05/2023;;"Herramientas CRM
+Presencia en Internet a travé sde página propia
+Herramientas de email Marketing
+";Profesional con despacho de abogados independiente.;no;OK;OK;OK;FALTA;15/05/2023;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\JUAN CARLOS DUARTE CAÑADO;02;;;Alfonso;;;;;4;TCC_AN_HU_206;JUAN CARLOS DUARTE CAÑADO - Soporttec;;05/02/2023;22/03/2023;23/03/2023;29/03/2023;Juan Carlos Saldaña;05/11/2023;Emergente;24/04/2023 - 11/05/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0,00;0,00;;;;;;;;0,00;   ;   ;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+BRASERIA B&R SCA - TICCAMARAS 2023 - TCC_AN_HU_208;10/04/2023(10-04-2023);31/12/2022;Esther Ponce Sanchez;;12;TICCAMARAS;2023;10;F1+F2;SL000000140909;SDE-REG-23-000000000006817;09/02/2023 9:47;F10856326;BRASERIA B&R SCA;HUELVA;ALJARAQUE;21100;TADEFI@TADEFI.ES;JOSE HERNANDEZ, 11;691054387;29493929V;YONATAN ACOSTA FERNANDEZ;JAVIER@TADEFI.ES;673,2;2022;OK;OK;ADMINISTRADOR SOLIDARIO;1;D.;F1+F2;10/04/2023;10/04/2023;10/04/2023;Dª.;Esther Ponce Sanchez;44226967Z;10/04/2023(10-04-2023);"Se intentó el contacto con los responsables de la empres durante finales de mayo y comienzos de junio sin que presentaran una clara predisposición a realizar el programa. 01/06/2023. Se les envio requerimiento de entrevista. Contestaron 08/06/2023. No realizan la entrevista por teéfono. 08/06. Se habla con sus asesores tecnológicos y nos comentan que no realizarán ningun ayuda porque las condiciones de financiación 80-20 no se acomoda a ellos. 14/06 Se le envia a su gestoria renuncia a FI y FII . 15/06 se recibe renuncia
+";22/05/2023;31/05/2023;;;;;;;02/05/2023 - 19/05/2023;;;;;;;;;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\BRASERIA B&R SCA;02;;;Alfonso;;;;;12;TCC_AN_HU_208;BRASERIA B&R SCA;;;10/04/2023;10/04/2023;27/04/2023;Esther Ponce Sanchez;;;22/05/2023 - 31/05/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0,00;0,00;;;;;;;;0,00;   ;   ;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MODERNIZA - TICCAMARAS 2023 - TCC_AN_HU_209;10/04/2023(22-03-2023);31/12/2022;Esther Ponce Sanchez;02/05/2023 - 19/05/2023;13;TICCAMARAS;2023;18;FI + FII;SL000000140920;SDE-REG-23-000000000006830;09/02/2023 10:02:11;B42831594;MODERNIZA;Huelva;ALJARAQUE;21110;sergio.guerrero@modernizaconsultores.es;C/ Julio Romero de Torres , 1   2º derecha;629543423;29053140T;SERGIO LUIS GUERRERO CHAMERO;GABINETEMORACLAROS@GMAIL.COM;9321;2020;OK;OK;administrador único;0;D.;F1+FII;23/03/2023;23/03/2023;23/03/2023;Dª.;Esther Ponce Sanchez;44226967Z;10/04/2023(22-03-2023);"10/05/2023 ENTREVISTA DIAGNOSTISCO 
+19/05/2023 Envío Anexo 18 + Diagnostico 
+FALTA ANEXO HABLAR CON SERGIO Se recibe Anexo 18 firmado
+07/06/2023 y 03/07/2023 Recepción de presupuestos
+06/07/2023 Envío Anexo 19 + PPI
+10/07/2023 Firma PPI y Anexo 19";25/04/2023;19/05/2023;FALTA ANEXO HABLAR CON SERGIO;07/06/2023 y 03/07/2023;06/07/2023;06/07/2023;10/07/2023;10/07/2023;02/05/2023 -25/05/2023;;"•	Dinamización de redes sociales
+•	Soluciones de comercio electrónico
+•	Servicio de promoción online SEM
+•	Soluciones de email marketing
+•	Herramientas colaborativas de gestión de proyectos";Consultoría de ventas, formación comercial, gestión de formación pública;www.modernizaconsultores.es;OK;OK;OK;OK;FALTA;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\MODERNIZA;02;;;Alfonso;;;;;6;TCC_AN_HU_209;MODERNIZA;;10/05/2023;22/03/2023;23/03/2023;04/04/2023;Esther Ponce Sanchez;19/05/2023;Emergente;02/05/2023 - 19/05/2023;;;;;;;;31/08/2023;Dinamiazación redes sociales;Ana Camacho Manfredi;48948487W;;;19/06/2023 al 31/08/2023;2750,00;;2750,00;Soluciones de comercio electrónico;Jonatan Vélez;49063298C;;49063298C;06/07/2023 al 31/08/2023;3155,00;;3155,00;Instalacion y configuracion de plataforma Moodle. Proyecto personalizado;;;;;06/07/2023 al 31/08/2023;790,00;;;0,00;0,00;;;;;;;;6695,00;Dinamiazación redes sociales 2750  2750;Soluciones de comercio electrónico 3155  3155;Instalacion y configuracion de plataforma Moodle. Proyecto personalizado 790  ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AGRUPACION RIAUMBRIA SL - TICCAMARAS 2023 - TCC_AN_HU_210;28/03/2023;31/12/2022;Juan Carlos Saldaña;02/05/2023 -25/05/2023;14;TICCAMARAS;2023;24;FI;SL000000140334;SDE-REG-23-000000000005985;03/02/2023 09:06:20;B21491089;AGRUPACION RIAUMBRIA SL;HUELVA;Punta Umbría;21100;carlos.canete@riaumbria.es;C/ Las Monizas s/n local;959314496;29050055C;JUAN CRUZ CAMPOY;carlos.canete@riaumbria.es;833.2;2010;OK;OK;administrador mancomunado;0;D.;F1+F2;23/03/2023;23/03/2023;23/03/2023;D. ;Juan Carlos Saldaña;29754396D;28/03/2023;"10/05/2023 ENTREVISTA DIAGNOSTISCO 
+25/05/2023 Envío Anexo 18 + Diagnostico 
+08/06/2023 Se recibe Anexo 18 firmado
+08/06/2023 Recepción de presupuestos
+17/06/2023 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";02/05/2023;25/05/2023;08/06/2023;08/06/2023;17/06/2023;17/06/2023;;;02/05/2023 -24/05/2023;;"Desarrollo de material promocional audiovisual 
+Gestión de clientes (CRM).
+Centralita virtual
+Dinamización de redes sociales.
+
+
+";"Empresa DE CONSTRUCCIÓN. Obra pública y privada
+Empresas contratistas de construcción.
+Movimiento de tierras.
+Transportes.
+Estructuras y cimentaciones.
+Fontanería.";www.riaumbria.es;OK;OK;OK;FALTA;;17/06/2023;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\AGRUPACION RIAUMBRIA SL;02;;;Alfonso;;;7.000,00 €;5.600,00 €;9;TCC_AN_HU_210;AGRUPACION RIAUMBRIA SL - Soporttec;;10/05/2023;22/03/2023 + 12/06/2023;23/03/2023 + 13/06/2023;29/03/2023 + 15/06/2023;Juan Carlos Saldaña;08/06/2023;Incipiente;02/05/2023 -25/05/2023;19/06/2023;;;;;;;31/08/2023;CRM. SISTEMA DE GESTIÓN DE CLIENTES;SOPORTTEC;ESB21454350;;;19/06/2023 al 31/08/2023;5000,00;2000,00;7000,00;;;;;49063298C;17/06/2023 al 31/12/2022;0,00;;0,00;;;;;;17/06/2023 al 31/12/2022;0,00;;0,00;0,00;0,00;;;;17/06/2023 al 31/12/2022;0,00;;0,00;7000,00;CRM. SISTEMA DE GESTIÓN DE CLIENTES 5000 2000 7000; 0  0; 0  0;0 0  0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+EMBUTIDOS MORENO VARGAS, S.L. - TICCAMARAS 2023 - TCC_AN_HU_207;21/03/2023;31/12/2022;Juan Carlos Saldaña;02/05/2023 -24/05/2023;15;TICCAMARAS;2003;23;FI (pendiente de resolver F2);SL000000140347;SDE-REG-23-000000000005994;03/02/2023 09:14:14;B10690568;EMBUTIDOS MORENO VARGAS, S.L.;HUELVA;CUMBRES DE SAN BARTOLOME;21386;MORENOVARGASEMBUTIDOS@GMAIL.COM;CALLE REAL 29;722341784;49085641F;ANDREA MORENO RISUEÑO;jcdc3239@icahuelva.es;642.4;2022;OK;OK;administradora única;0;Dª.;F1+F2;23/03/2023;23/03/2023;27/03/2023;D. ;Juan Carlos Saldaña;29754396D;21/03/2023;"3/14/2023 ENTREVISTA DIAGNOSTISCO 
+24/05/2023 Envío Anexo 18 + Diagnostico 
+08/06/2023 Se recibe Anexo 18 firmado
+08/06/2023 Recepción de presupuestos
+17/06/2023 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";02/05/2023;24/05/2023;08/06/2023;08/06/2023;17/06/2023;17/06/2023;;;02/05/2023 - 22/05/2023;;" Gestión de clientes C8M
+Presencia web a través de página propia
+Soluciones de comercio electróico";Comercialización de jamones y embutidos;no tienen;OK;OK;OK;FALTA;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\EMBUTIDOS MORENO VARGAS, S.L.;02;;;Alfonso;;;7000;5600;10;TCC_AN_HU_207;EMBUTIDOS MORENO VARGAS, S.L. - Soporttec;;3/14/2023;22/03/2023 + 12/06/2023;23/03/2023 + 13/06/2023;28/03/2024 + 15/06/2023;Juan Carlos Saldaña;06/08/2023;Emergente;02/05/2023 -24/05/2023;19/06/2023;;;;;;;31/08/2023;SITIO WEB CORPORATIVO A TRAVÉS DE PÁGINA PRPOPIA;SOPORTTEC;ESB21454350;;;19/06/2023 - 31/08/2023;2130,00;180,00;2310,00;CRM;SOPORTTEC;ESB21454350;;49063298C;19/06/2023-31/08/2023;1500,00;250,00;1750,00;ECOMMERCE;SOPORTTEC;ESB21454350;;;;2940,00;;2940,00;2940,00;5880,00;;;;;;;;7000,00;SITIO WEB CORPORATIVO A TRAVÉS DE PÁGINA PRPOPIA 2130 180 2310;CRM 1500 250 1750;ECOMMERCE 2940  2940;2940   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+TALLERES CAMARINA SOCIEDAD LIMITADA - TICCAMARAS 2023 - TCC_AN_HU_211;11/04/2023;31/12/2022;Esther Ponce Sanchez;02/05/2023 - 22/05/2023;16;TICCAMARAS;2023;11;F1+F2;SL000000140620;SDE-REG-23-000000000006337;06/02/2023 16:20;B21227129;TALLERES CAMARINA SOCIEDAD LIMITADA;HUELVA;HUELVA;21007;taca@camarina.es;PARQUE HUELVA EMPRESARIAL, PARCELA 1.5;959232408;29762746X;MANUEL MARTIN GARCIA;taca@camarina.es;654.1;1997;OK;OK;administradora única;0;D.;F1+F2;10/04/2023;10/04/2023;10/04/2023;Dª.;Esther Ponce Sanchez;44226967Z;11/04/2023;"5/16/2023 ENTREVISTA DIAGNOSTISCO 
+22/05/2023 Envío Anexo 18 + Diagnostico 
+06/06/2023 Se recibe Anexo 18 firmado
+06/06/2023 Recepción de presupuestos
+07/06/2023 Envío Anexo 19 + PPI
+07/06/2023 Firma PPI y Anexo 19";02/05/2023;22/05/2023;06/06/2023;06/06/2023;07/06/2023;07/06/2023;07/06/2023;07/06/2023;08/06/2023 al 31/08/2023;;"•	DDP Gestión de clientes (CRM) 
+•	DDP Soluciones de e-mail marketing
+•	DDP Centralita virtual";"Talleres Camarina, S.L. presta un servicio completo de  reparación y mantenimiento de vehículos, especializado en vehículos industriales, tanto Camiones como Autobuses. Aunque este servicio ha de ser diferenciado en:
+
+Mantenimientos.
+Garantías.
+Servicios < 1 día.
+Servicio General.
+Servicio en Carretera.
+Servicio 24 Horas.";https://camarina.es/;OK;OK;OK;FALTA;;19/06/2023;* 19/06/2023 Se vuelve a enviar PUBLICICDAD UE corregida con logos;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\TALLERES CAMARINA SOCIEDAD LIMITADA;02;;;Alfonso;;;;;13;TCC_AN_HU_211;TALLERES CAMARINA - Soporttec;;5/16/2023;10/04/2023;10/04/2023;12/04/2023;Esther Ponce Sanchez;16/05/2023;;02/05/2023 - 22/05/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0,00;0,00;;;;;;;;;   ;   ;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ACADEMIA BRITANICA Y CASA INTERNACIONAL CORDOBA SA - TICCAMARAS 2023 - TCC_AN_HU_215;27/04/2023;31/12/2022;Juan Carlos Saldaña;15/05/2023 - 31/05/2023;16;TICCAMARAS;2023;16;FI + FII;SL000000140965;SDE-REG-23-000000000006884;09/02/2023 11:30;A14101059;ACADEMIA BRITANICA Y CASA INTERNACIONAL CORDOBA SA;Córdoba;Córdoba;14003;angelac@acabri.com;ACADEMIA BRITANICA Y CASA INTERNACIONAL CORDOBA SA;648106924;30503536Q;MARCOS ANDRES CREMADES SCHULZ;SILVIAGARCIA@ACP-ASOCIADOS.COM;933.9;;OK;OK;ADMINISTRADOR ÚNICO;0;D.;F1+F2;26/04/2023;26/04/2023;26/04/2023;D. ;Juan Carlos Saldaña;29754396D;27/04/2023;"Entrevista ralizada ENTREVISTA DIAGNOSTISCO 
+31/05/2023 Envío Anexo 18 + Diagnostico 
+08/06/2023 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";15/05/2023;31/05/2023;08/06/2023;;;;;;08/06/2023 al 31/08/2023;;"* Herramienta de gestión de procesos (ERP)
+*  Servicio de promoción online mediante sistema de pago (SEM)
+* Herramientas colaborativas de gestión de proyectos
+* Elaboración de catálogos digitales
+";Acemia de enseñanza de idiomas Inglés;www.acabri.com;OK;OK;OK;FALTA;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\ACADEMIA BRITANICA Y CASA INTERNACIONAL CORDOBA SA;02;;;Alfonso;;;;;16;TCC_AN_HU_215;ACADEMIA BRITANICA Y CASA INTERNACIONAL CORDOBA;;Entrevista ralizada;25/04/2023;26/04/2023;27/04/2023;Juan Carlos Saldaña;31/05/2023;Incipiente;15/05/2023 - 31/05/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0,00;0,00;;;;;;;;;   ;   ;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SDAD.COOP.AND. SAN JUAN BAUTISTA - INNOCAMARAS 2023 - ICA_AN_HU_194;27/04/2023;31/12/2022;Joaquín Vega;25/05/2023 - 05/06/2023;28;INNOCAMARAS;Fase 1;28;F1 ;SL000000139821;30/01/2023 18:52;SDE-REG-23-000000000005401;F21009477;SDAD.COOP.AND. SAN JUAN BAUTISTA;HUELVA;LA PALMA DEL CONDADO;21700;scasanjuanbautista@hotmail.com;CAMINO MOLINO NUEVO S/N;678337468;75558626S;JOSE JUAN CARDENAS ROMERO;josejucar@yahoo.es;419,1;1985;;;;;D.;F1;23/03/2023;23/03/2023;23/03/2023;D. ;Joaquín Vega;29050456F;27/04/2023;"00/01/1900 ENTREVISTA DIAGNOSTISCO 
+05/06/2023 Envío Anexo 18 + Diagnostico 
+06/06/2023 Se recibe Anexo 18 firmado
+solo FASE I - reserva Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";25/05/2023;05/06/2023;06/06/2023;solo FASE I - reserva;;;;;08/06/2023 al 31/08/2023;;"*Diseño y desarrollo de producto servicio o introducción de mejoras significativas a los productos servicios actuales
+* Auditoria consultoría organización de la producción
+* Planes estratégicos de marketing y comercialización
+
+";Empresa dedicada a la producción de pan, regañás y picos fundamentalmente así como otras líneas de productos relacionados;;OK;OK;OK;FALTA;05/06/2023;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\SDAD.COOP.AND. SAN JUAN BAUTISTA;01;;;Alfonso;;;actualizado;a JOAQUIN;24;ICA_AN_HU_194;SDAD COOP AND SAN JUAN BAUTISTA - Soporttec - SOLO FI;Requerido Fecha;;21/03/2023;23/03/2023;28/03/2023;Joaquin Vega de los Santos;;;25/05/2023 - 05/06/2023;realizada entrevista pero no hace fase ii;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0,00;0,00;;;;;;;;;   ;   ;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+HYDRA SYSTEM POOL SOCIEDAD LIMITADA - INNOCAMARAS 2023 - ICA_AN_HU_196;27/04/2023;31/12/2022;Esther Ponce Sanchez;;35;INNOCAMARAS;23/05/20203;35;F1;SL000000139730;30/01/2023 9:30;SDE-REG-23-000000000005309;B21545405;HYDRA SYSTEM POOL SOCIEDAD LIMITADA;HUELVA;VILLALBA DEL ALCOR;21860;"sandra.canas@ingade.es;administracion@hydrasystempool.com";CARRETERA A 472, KM 29;674173240;48937482Z;JOSE MANUEL GIL GONZALEZ;"sandra.canas@ingade.es;administracion@hydrasystempool.com";482.2;2014;OK;ok;ok;ADMINISTRADOR ÚNICO;D.;F1;23/05/2023;23/05/2023;23/05/2023;Dª.;Esther Ponce Sanchez;44226967Z;27/04/2023;"19/06/2023 ENTREVISTA DIAGNOSTISCO 
+19/06/2023 Envío Anexo 18 + Diagnostico 
+21/06/2023 Se recibe Anexo 18 firmado
+solo FASE I - reserva Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";06/06/2023;19/06/2023;21/06/2023;solo FASE I - reserva;;;;;08/06/2023 al 31/08/2023;;"* Sistemáticas y metodologías de Gestión
+* Planes estratégicos
+* Planes estratégicos de marketing y comercialización
+";Especialistas en el desarrollo de soluciones del entorno constructivo, en la creación de nuevos espacios y también en la rehabilitación. Su enfoque de negocio es en el sector del baño y áreas Wellness;www.hydrasystempool.com;OK;OK;OK;OK;20/06/2023;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\HYDRA SYSTEM POOL SOCIEDAD LIMITADA;01;;;Alfonso ;14/06. HABLADO CON ELLOS - Pendiente de fecha entrevista. SAndra nos enviará tentativ entrevista semana del 19-06;16/06 Pendiente de fecha entrevista. Se nos dirá algo el l9-20 junio;;;28;ICA_AN_HU_196;HYDRA SYSTEM POOL  -  SOLO FASE I;Tienen intención de realizar FII. FI completada.;19/06/2023;22/05/2023;23/05/2023;05/06/2023;Esther Ponce Sanchez;19/06/2023;Emergente;06/06/2023 - 19/06/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0,00;0,00;;;;;;;;;   ;   ;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FRANCISCO JOSE LOPEZ BALLESTER - INNOCAMARAS 2023 - ICA_AN_HU_197;05/04/2023;31/12/2022;Juan Carlos Saldaña;;36;INNOCAMARAS;no;34;f1;SL000000139813;30/01/2023 18:35;SDE-REG-23-000000000005399;44207171K;FRANCISCO JOSE LOPEZ BALLESTER;Huelva;Huelva;21001;francisco@auderecoaching.es;Calle Santiago Apóstol, 47;626984644;44207171K;FRANCISCO JOSE LOPEZ BALLESTER;;882/934;2016;0;OK;EMPRESARIO AUTÓNOMO;Empresario autónomo;D.;F1;26/04/2023;26/04/2023;26/04/2023;D. ;Juan Carlos Saldaña;29754396D;05/04/2023;"07-06-2022 - REALIZADA ENTREVISTA DIAGNOSTISCO 
+20/06/2023 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";06/06/2023;20/06/2023;;;;;;;08/06/2023 al 31/08/2023;;"* Planificación estratégica
+* Desarrollo de producto o servicio o mejoras significativas
+* Herramientas de comercialización 
+* Planes estratégicos de marketing y comercialización
+
+";Servicios coaching para empresas individuales o grupales con técnicas innovadoras de coaching y crecimiento personal;;OK;ok;ok;ok;22/06/2023;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\FRANCISCO JOSE LOPEZ BALLESTER;01;;;Alfonso;;;FIRMARA LA FASE I - PENDIENTE DE ENVIAR DIAGNOSTICO EN FECHA;;27;ICA_AN_HU_197;FRANCISCO JOSE LOPEZ BALLESTER - SOLO FI;;07-06-2022 - REALIZADA;24/04/2023;26/04/2023;04/05/2023;Juan Carlos Saldaña;20/06/2023;Incipiente;01/06/2023 - 20/06/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0,00;0,00;;;;;;;;;   ;   ;   ;0   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+JOAQUIN LUCENA QUINTERO - TICCAMARAS 2023 - TCC_AN_HU_222;14/06/2023;31/12/2022;Esther Ponce Sanchez;;37;TICCAMARAS;NO;33;F1;SL000000140884;08/02/2023 19:58;SDE-REG-23-000000000006786;44209326Z;JOAQUIN LUCENA QUINTERO;HUELVA;HUELVA;21002;joaquinlucenaquintero@hotmail.com;C/ GINES MARTIN Nº 14, 2º B;649155941;44209326Z;JOAQUIN LUCENA QUINTERO;joaquinlucenaquintero@hotmail.com;842;2019;OK;OK;Empresario autónomo;0;Empresario autónomo;D.;;;;;Esther Ponce Sanchez;44226967Z;14/06/2023;"Entrevista 27-07 ENTREVISTA DIAGNOSTISCO 
+29/06/2023 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";15/06/2023;29/06/2023;;;;;;;;;"* Herramientas colaborativas de gestión de proyectos
+* Herramientas de email marketing
+* Proyecto personalizado gestión documental
+";Profesional con despacho de abogados independiente prestanñdo servicios a pymes en area tributaria. ;;OK;OK;OK;OK;30/06/2023;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\JOAQUIN LUCENA QUINTERO;02;;;ALFONSO;ENTREVISTA REALIZADA;;;;22;TCC_AN_HU_222;JOAQUIN LUCENA QUINTERO - SOLO FI;ENTREVISTA.AGENDA;Entrevista 27-07;29/05/2023;05/06/2023;15/06/2023;Esther Ponce Sanchez;27/06/2023;Incipiente;15/06/2023 - 29/06/2023;;;;;;;;;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;0,00;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;   0;   0;   0;#¿NOMBRE?;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+FRUTAS BOSQUES SL - TICCAMARAS 2023 - TCC_AN_HU_219;09/06/2023;31/12/2022;Juan Carlos Saldaña;;38;TICCAMARAS;NO;30;FII;SL000000140460;SDE-REG-23-000000000006168;04/02/2023 8:52;B21263348;FRUTAS BOSQUES SL;HUELVA;MOGUER;21800;sergio.zayas@onubayas.es;"POLIGONO INDUSTRIAL ""EL ALGARROBITO"" 71/72";616994780;X1639086Z;ADRIANUS JAN BERGEIJK;sergio.zayas@onubayas.es;612,2;1998;OK;OK;ADMINISTRADOR ÚNCO;0;D.;F2;30/06/2023;30/06/2023;02/07/2023;D. ;Juan Carlos Saldaña;29754396D;09/06/2023;"Entrevista 28-06.  ENTREVISTA DIAGNOSTISCO 
+29/06/2023 Envío Anexo 18 + Diagnostico 
+04/07/2028 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";15/06/2023;29/06/2023;04/07/2028;;;;;;;;"* Sistema de gestión documental - personalizado
+";Empresa dedicada a la produccion de variedades de plantas para frambuesa I + D;;ok;ok;ok;ok;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\FRUTAS BOSQUES SL;02;;;ALFONSO;ENTREVISTA REALIZADA;;;;21;TCC_AN_HU_219;FRUTAS BOSQUES;ENTREVISTA.AGENDA;Entrevista 28-06. ;29/05/2023 + 28/06/2023;05/06/2023 + 30/06/2023;15/06/2023;Juan Carlos Saldaña;28/06/2023;Emergente;15/06/2023 - 29/06/2023;;;;;;;;;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;0,00;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;   0;   0;   0;#¿NOMBRE?;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+JAVIER LUIS RUBIO GOMEZ - TICCAMARAS 2023 - ;00/01/1900;31/12/2022;0;;39;TICCAMARAS;NO;37;FI;SL000000140577;SDE-REG-23-000000000006294;06/02/2023 12:44;29437755D;JAVIER LUIS RUBIO GOMEZ;Huelva;Huelva;21004;clinicafm33@gmail.com;Avenida Federico Mayo, 1;658120337;29437755D;JAVIER LUIS RUBIO GOMEZ;;945 Y  647.1;2020;OK;OK;EMPRESARIO AUTONOMO;0;D.;F1;30/06/2023;30/06/2023;02/07/2023;;;;;"00/01/1900 ENTREVISTA DIAGNOSTISCO 
+00/01/1900 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";;;;;;;;;;;;;;;;;;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\JAVIER LUIS RUBIO GOMEZ;02;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;0,00;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;   0;   0;   0;#¿NOMBRE?;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PUNTACOM SL - TICCAMARAS 2023 - TCC_AN_HU_224;00/01/1900;31/12/2022;0;;40;TICCAMARAS;SOPORTTEC;38;FI;SL000000140362;SDE-REG-23-000000000006005;03/02/2023 9:48;B21500202;PUNTACOM SL;HUELVA;Punta Umbría;21100;carlos.canete@riaumbria.es;C/ Las Monizas s/n local;959314496;29050055C;JUAN CRUZ CAMPOY;carlos.canete@riaumbria.es;501.1;2011;OK;OK;ADMINISTRADOR MANCOMUNCADO;0;D.;F1;30/06/2023;30/06/2023;02/07/2023;;;;;"00/01/1900 ENTREVISTA DIAGNOSTISCO 
+00/01/1900 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";;;;;;;;;;;;;;;;;;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\PUNTACOM SL;02;;;Alfonso (ME LO ASIGNO);;;;;25;TCC_AN_HU_224;PUNTACOM - SOLO FI - Soporttec;;;28/06/2023;30/06/2023;12/07/2023;Esther Ponce Sanchez;;;13/07/2023 - 26/07/2023;;;;;;;;;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;0,00;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;   0;   0;   0;#¿NOMBRE?;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+VIGUETAS SUR SL - TICCAMARAS 2023 - TCC_AN_HU_223;00/01/1900;31/12/2022;0;07/07/2023 - 21/07/2023;41;TICCAMARAS;NO;39;FI;SL000000140730;SDE-REG-23-000000000006537;07/02/2023 15:57;B21002886;VIGUETAS SUR SL;HUELVA;GIBRALEON;21500;VIGUETASSUR@VIGUETASSUR.COM;BARRIADA ESTACION, CALLE FERROVIARIOS  S/N;959300126;75549501K;NURIA PERACAULA SANCHEZ;viguetassursl@gmail.com;2433;1962;OK;OK;Representante Legal;0;D.;F1;30/06/2023;30/06/2023;02/07/2023;;;;;"00/01/1900 ENTREVISTA DIAGNOSTISCO 
+00/01/1900 Envío Anexo 18 + Diagnostico 
+00/01/1900 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";;;;;;;;;;;;;;;;;;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\VIGUETAS SUR SL;02;;;Alfonso (ME LO ASIGNO);llamado. Es de soporttec;;;;23;TCC_AN_HU_223;VIGETAS DEL SUR - SOLO FI;;;28/06/2023;30/06/2023;05/07/2023;Rafael Llanes Gómez;;;07/07/2023 - 21/07/2023;;;;;;;;;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;;;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;0,00;;;;00/01/1900 al 31/12/2022;;;0,00;0,00;   0;   0;   0;#¿NOMBRE?;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+INNTELIA SOLUCIONES TECNOLOGICAS SL - TICCAMARAS 2023 - TCC_AN_HU_220;11/05/2023;31/12/2022;Rafael Llanes Gómez;#¡VALOR!;42;TICCAMARAS;NO;17;FI+F2;SL000000140955;SDE-REG-23-000000000006878;44966,46977;B21509518;INNTELIA SOLUCIONES TECNOLOGICAS SL;Huelva;Huelva;21001;"mruiz@inntelia.com;Jesús Andrés Rodríguez Muñoz <ja.rodriguez@iph.es>";CALLE PLUS ULTRA, 13-15, 5ª PLANTA;629380773;09179465G;VICENTE SANCHEZ MEDINA;SOPORTE@INNTELIA.COM;769,8431,936;2012;OK;OK;ADMINISTRADOR ÚNICO;0;D.;FI+F2;08/05/2023;08/05/2023;08/05/2023;D.;Rafael Llanes Gómez;29053912J;11/05/2023;"Enviado requerimiento entrevista 19/06/2023 ENTREVISTA DIAGNOSTISCO 
+23/06/2023 Envío Anexo 18 + Diagnostico 
+11/07/2023 Se recibe Anexo 18 firmado
+00/01/1900 Recepción de presupuestos
+00/01/1900 Envío Anexo 19 + PPI
+00/01/1900 Firma PPI y Anexo 19";01/06/2023;23/06/2023;11/07/2023;;;;;;;;* Bussiness Analytics;;www.inntelia.com;OK;OK;OK;OK;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\INNTELIA SOLUCIONES TECNOLOGICAS SL;02;;;Alfonso;ENTREVISTA REALIZADA;;;;18;TCC_AN_HU_220;INNTELIA SOLUCIONES TECNOLOGICAS;ENTREVISTA.AGENDA;Enviado requerimiento entrevista 19/06/2023;05/05/2023;45054;11/05/2023;Rafael Llanes Gómez;Entrevista 29-06 09-30;;01/06/2023 - 23/06/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MIGUEL RAYA QUINTERO - INNOCAMARAS 2023 - ICA_AN_HU_193;02/05/2023;25/05/2023;Joaquín Vega;#¡VALOR!;43;INNOCAMARAS;NO;24;FII;SL000000139824;30/01/2023 19:11;SDE-REG-23-000000000005405;49115026K;MIGUEL RAYA QUINTERO;HUELVA;HUELVA;21003;miguelrayacomas@gmail.com;ALAMEDA SUNDHEIM, 15 BAJO IZQDA;685119310;49115026K;MIGUEL RAYA QUINTERO;miguelrayacomas@gmail.com;838;2021;OK;OK;Empresario autonomo;;D.;FII;30/06/2023;30/06/2023;02/07/2023;D.;Rafael Llanes Gómez;29053912J;;;02/05/2023;25/05/2023;;;;;;;;;;;;OK;OK;OK;OK;;;;;;;;X:\FEDER 2016-2020\01-INNOCAMARAS\2023\Expedientes\Expedientes admitidos\MIGUEL RAYA QUINTERO;01;;;Rafa;;;;;23;ICA_AN_HU_193;MIGUEL RAYA QUINTERO - Ocihoreca;;;21/03/2023 + 26/06/2023;23/03/2023 + 30/06/2023;28/04/2023;Joaquin Vega de los Santos;ALFONSO;ENTREVISTA REALIZADA;;;;22;TCC_AN_HU_222;JOAQUIN LUCENA QUINTERO - SOLO FI;ENTREVISTA.AGENDA;Entrevista 27-07;29/05/2023;05/06/2023;15/06/2023;Esther Ponce Sanchez;27/06/2023;Incipiente;15/06/2023 - 29/06/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ANFORA GESTION INTEGRAL DEL PATRIMONIO SL - TICCAMARAS 2023 - TCC_AN_HU_221;02/05/2023;25/05/2023;Joaquín Vega;#¡VALOR!;44;TICCAMARAS;NO;29;FI+FII;SL000000140992;SDE-REG-23-000000000006932;09/02/2023 13:01;B21309489;ANFORA GESTION INTEGRAL DEL PATRIMONIO SL;Huelva;Huelva;21001;olgaguerrero@anforagrupo.com;Calle Taray nº 10, nave 48 polígono mirador del Odiel;959812065;29053139E;OLGA MARIA GUERRERO CHAMERO;administracion@anforagrupo.com;843.0;2013;OK;OK;ADMINISTRADORA ÚNICA;0;Dª.;FI+FII;20/06/2023;20/06/2023;20/06/2023;D.;Rafael Llanes Gómez;29053912J;;"05/07/2023. Fin diagnóstico fase I
+11/07/2023. Se envía diagnóstico";26/06/2023;05/07/2023;;;;;;;;;"* Herramientas colaborativas de gestión de proyectos
+* Aplicación de captura y consulta de datos de campo
+* Solución de cobros y pagos
+* Presencia web a través de página propia
+* Sistemas de diseño asistido por computador e impresión 3D para prototipo rápido.";Gestion Del Patrimonio Historico Cultural, Incluyendo Estudio Y Realizacion De Proyectos Arqueologicos, Culturales, Patrimoniales. Puesta En Valorde Bienes Muebles E Inmuebles Del Patrimonio Historico Cultural Y Tratamientos Informaticos Del Entorno.;;OK;OK;ok;ok;;;;;;;;X:\FEDER 2016-2020\02-TICCAMARAS\2023\Expedientes\Expedientes admitidos\ANFORA GESTION INTEGRAL DEL PATRIMONIO SL;02;;;ALFONSO;;;;;20;TCC_AN_HU_221;ANFORA GESTION INTEGRAL DEL PATRIMONIO;ENTREVISTA.AGENDA;entrevista-realizada;29/05/2023;05/06/2023;23/06/2023;Rafael Llanes Gómez;05/07/2023;Incipiente;26/06/2023 - 05/07/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
